@@ -14,6 +14,7 @@ Yet to be updated.
 
 ## MultiSim Code
 Yet to be updated. 
+![image](https://github.com/ritikadhaker/EE307-Project-2023-G8/assets/95522230/31b4cff9-f01c-425b-ae80-87559efc2411)
 
 ## Important Links
 - Link to the report.
