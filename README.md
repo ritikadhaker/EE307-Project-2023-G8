@@ -31,7 +31,15 @@ Yet to be updated.
 ![demodulation-simulink-graph](https://github.com/ritikadhaker/EE307-Project-2023-G8/assets/95522230/027e922f-7db7-4964-a6a4-26c72f800a6a)
 
 ## MultiSim Code
-Yet to be updated. 
+The simulation can be found [here](https://www.multisim.com/content/EEv2yvHNr5MATcBToRnjQo/fsk-modulation-and-demodulation/open/).
+
+## Arduino Code
+The code in `TSK2.ino` can be uploaded to the Arduino and can be seen on the oscilloscope. Following are the results of the experiment.
+
+
+https://github.com/ritikadhaker/EE307-Project-2023-G8/assets/95522230/118babe4-eacb-4b10-b42e-737524e0ce1b
+
+
 
 ### Results
 
