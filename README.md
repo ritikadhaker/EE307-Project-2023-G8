@@ -12,7 +12,7 @@ Run the `FSK_Modulation_and_Demodulation.ipynb` to look at the results. Change t
 ![Python-result](https://github.com/ritikadhaker/EE307-Project-2023-G8/assets/95522230/f58ad95d-fb0d-44b7-8d2e-f42f9439b689)
 
 ## MATLAB Simulink 
-Yet to be updated.
+The simulation file can be downloaded from `FSK.slx` and then run using MATLAB Simulink to see the results.
 
 ### Results
 
@@ -48,8 +48,9 @@ https://github.com/ritikadhaker/EE307-Project-2023-G8/assets/95522230/118babe4-e
 ![multisim-combined](https://github.com/ritikadhaker/EE307-Project-2023-G8/assets/95522230/8d23fcb6-f81a-4a21-a2a7-67179054a462)
 
 ## Important Links
-- Link to the report.
-- Link to the PPT.
+- [Link to the PPT.](https://docs.google.com/presentation/d/1ZadySZNYI76aWLj56DPhyZ-5iMno2dsJ/edit?usp=sharing&ouid=106674951210359123324&rtpof=true&sd=true)
+- [Link to the report.](https://drive.google.com/file/d/1laIy5XnEFhbfCU5pa3reGhz8VhVnXqUA/view?usp=sharing)
+- [Link to the presentation video.]
 
 ## Team Members - Group 8
 - 210002061 Ranu Lal
