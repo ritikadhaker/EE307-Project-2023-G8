@@ -50,7 +50,7 @@ https://github.com/ritikadhaker/EE307-Project-2023-G8/assets/95522230/118babe4-e
 ## Important Links
 - [Link to the PPT.](https://docs.google.com/presentation/d/1ZadySZNYI76aWLj56DPhyZ-5iMno2dsJ/edit?usp=sharing&ouid=106674951210359123324&rtpof=true&sd=true)
 - [Link to the report.](https://drive.google.com/file/d/1laIy5XnEFhbfCU5pa3reGhz8VhVnXqUA/view?usp=sharing)
-- [Link to the presentation video.]
+- [Link to the presentation video.](https://drive.google.com/file/d/1RcOouo4jqtAoTIh23YEORQXKEdZEVi9Q/view?usp=drive_link)
 
 ## Team Members - Group 8
 - 210002061 Ranu Lal
