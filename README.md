@@ -33,6 +33,12 @@ The simulation file can be downloaded from `fsk_matlab.slx` and then run using M
 ## MultiSim Code
 The simulation can be found [here](https://www.multisim.com/content/EEv2yvHNr5MATcBToRnjQo/fsk-modulation-and-demodulation/open/).
 
+### Results
+
+![multisim-combined-circuit](https://github.com/ritikadhaker/EE307-Project-2023-G8/assets/95522230/af2ab308-cf25-4255-83c0-f4c93092c0f4)
+
+![multisim-combined](https://github.com/ritikadhaker/EE307-Project-2023-G8/assets/95522230/8d23fcb6-f81a-4a21-a2a7-67179054a462)
+
 ## Arduino Code
 The code in `fsk_arduino.ino` can be uploaded to the Arduino and can be seen on the oscilloscope. Following are the results of the experiment.
 
@@ -40,12 +46,6 @@ The code in `fsk_arduino.ino` can be uploaded to the Arduino and can be seen on 
 https://github.com/ritikadhaker/EE307-Project-2023-G8/assets/95522230/118babe4-eacb-4b10-b42e-737524e0ce1b
 
 
-
-### Results
-
-![multisim-combined-circuit](https://github.com/ritikadhaker/EE307-Project-2023-G8/assets/95522230/af2ab308-cf25-4255-83c0-f4c93092c0f4)
-
-![multisim-combined](https://github.com/ritikadhaker/EE307-Project-2023-G8/assets/95522230/8d23fcb6-f81a-4a21-a2a7-67179054a462)
 
 ## Important Links
 - [Link to the PPT.](https://docs.google.com/presentation/d/1ZadySZNYI76aWLj56DPhyZ-5iMno2dsJ/edit?usp=sharing&ouid=106674951210359123324&rtpof=true&sd=true)
