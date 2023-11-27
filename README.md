@@ -7,12 +7,12 @@ Codes for Frequency Shift Keying (FSK) Modulation and Demodulation Demonstration
 
 
 ## Python Code
-Run the `FSK_Modulation_and_Demodulation.ipynb` to look at the results. Change the parameters and message signal to experiment with the different values and signals. 
+Run the `fsk_python.ipynb` to look at the results. Change the parameters and message signal to experiment with the different values and signals. 
 
 ![Python-result](https://github.com/ritikadhaker/EE307-Project-2023-G8/assets/95522230/f58ad95d-fb0d-44b7-8d2e-f42f9439b689)
 
 ## MATLAB Simulink 
-The simulation file can be downloaded from `FSK.slx` and then run using MATLAB Simulink to see the results.
+The simulation file can be downloaded from `fsk_matlab.slx` and then run using MATLAB Simulink to see the results.
 
 ### Results
 
@@ -34,7 +34,7 @@ The simulation file can be downloaded from `FSK.slx` and then run using MATLAB S
 The simulation can be found [here](https://www.multisim.com/content/EEv2yvHNr5MATcBToRnjQo/fsk-modulation-and-demodulation/open/).
 
 ## Arduino Code
-The code in `TSK2.ino` can be uploaded to the Arduino and can be seen on the oscilloscope. Following are the results of the experiment.
+The code in `fsk_arduino.ino` can be uploaded to the Arduino and can be seen on the oscilloscope. Following are the results of the experiment.
 
 
 https://github.com/ritikadhaker/EE307-Project-2023-G8/assets/95522230/118babe4-eacb-4b10-b42e-737524e0ce1b
